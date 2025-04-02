@@ -1,0 +1,17 @@
+C:\Users\rapha\Desktop\Employee MS Project\Employee MS Project\obj\Debug\Employee MS Project.vbproj.AssemblyReference.cache
+C:\Users\rapha\Desktop\Employee MS Project\Employee MS Project\obj\Debug\Employee_MS_Project.Home.resources
+C:\Users\rapha\Desktop\Employee MS Project\Employee MS Project\obj\Debug\Employee_MS_Project.Login.resources
+C:\Users\rapha\Desktop\Employee MS Project\Employee MS Project\obj\Debug\Employee_MS_Project.Resources.resources
+C:\Users\rapha\Desktop\Employee MS Project\Employee MS Project\obj\Debug\Employee MS Project.vbproj.GenerateResource.cache
+C:\Users\rapha\Desktop\Employee MS Project\Employee MS Project\obj\Debug\Employee MS Project.vbproj.CoreCompileInputs.cache
+C:\Users\rapha\Desktop\Employee MS Project\Employee MS Project\obj\Debug\Employee_MS_Project.Form1.resources
+C:\Users\rapha\Desktop\Employee MS Project\Employee MS Project\bin\Debug\Employee MS Project.exe.config
+C:\Users\rapha\Desktop\Employee MS Project\Employee MS Project\bin\Debug\Employee MS Project.exe
+C:\Users\rapha\Desktop\Employee MS Project\Employee MS Project\bin\Debug\Employee MS Project.pdb
+C:\Users\rapha\Desktop\Employee MS Project\Employee MS Project\bin\Debug\Employee MS Project.xml
+C:\Users\rapha\Desktop\Employee MS Project\Employee MS Project\obj\Debug\Employee MS Project.exe
+C:\Users\rapha\Desktop\Employee MS Project\Employee MS Project\obj\Debug\Employee MS Project.xml
+C:\Users\rapha\Desktop\Employee MS Project\Employee MS Project\obj\Debug\Employee MS Project.pdb
+C:\Users\rapha\Desktop\Employee MS Project\Employee MS Project\obj\Debug\Employee_MS_Project.Employee.resources
+C:\Users\rapha\Desktop\Employee MS Project\Employee MS Project\obj\Debug\Employee_MS_Project.view.resources
+C:\Users\rapha\Desktop\Employee MS Project\Employee MS Project\obj\Debug\Employee_MS_Project.Salary.resources
